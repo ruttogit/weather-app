@@ -1,0 +1,19 @@
+
+@font-face {
+  font-family: "Inter";
+  src: url('./fonts/Inter-VariableFont_opsz\,wght.ttf');
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body{
+  color: #ffffff;
+  font-family: "Inter", system-ui;
+  background-image: url('images/bg-weather.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
