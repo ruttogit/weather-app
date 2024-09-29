@@ -72,6 +72,9 @@
 }
 
 @media screen and (max-width: 600px){
+    .weather-details-wrap{
+        margin-top: -100px;
+    }
     .left, .center, .right{
         gap: 1rem;
     }
