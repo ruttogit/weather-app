@@ -16,7 +16,6 @@ function Hero({searchQueryerror, loading, weatherData}) {
 
 
 
-    
 
 
     let obj = new Date(); 

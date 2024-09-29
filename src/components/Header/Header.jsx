@@ -5,6 +5,16 @@ import './Header.css'
 
 
 function Header({error, loading, weatherData, searchQuery, setSearchQuery}) {
+
+
+
+
+
+
+
+
+
+
   const [query, setQuery] = useState('Eldoret');
 
 
